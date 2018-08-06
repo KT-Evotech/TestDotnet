@@ -1,0 +1,10 @@
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/bin/Debug/netcoreapp2.0/testdotnet.deps.json
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/bin/Debug/netcoreapp2.0/testdotnet.runtimeconfig.json
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/bin/Debug/netcoreapp2.0/testdotnet.runtimeconfig.dev.json
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/bin/Debug/netcoreapp2.0/testdotnet.dll
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/bin/Debug/netcoreapp2.0/testdotnet.pdb
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/obj/Debug/netcoreapp2.0/testdotnet.csproj.CoreCompileInputs.cache
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/obj/Debug/netcoreapp2.0/testdotnet.AssemblyInfoInputs.cache
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/obj/Debug/netcoreapp2.0/testdotnet.AssemblyInfo.cs
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/obj/Debug/netcoreapp2.0/testdotnet.dll
+/Users/kidsanatamarat/Dropbox/KTEVOTECH/testdotnet/obj/Debug/netcoreapp2.0/testdotnet.pdb
